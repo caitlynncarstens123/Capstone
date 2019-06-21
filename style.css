@@ -78,6 +78,101 @@ input {
   margin-left:110px;
 }
 
+.hawaiiPage {
+  border: none;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+  background-color:
+}
+.textHawaii {
+  font-size: 30px;
+  color: pink;
+  background-color: white;
+  border: 5px black dotted;
+}
+.irelandPage {
+  border: none;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+  background-color:
+}
+.textIreland {
+  font-size: 30px;
+  color: green;
+  background-color: white;
+  border: 5px black dotted;
+}
+.belizePage {
+  border: none;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+}
+.textBelize {
+  font-size: 30px;
+  color: #60d1e0;
+  background-color: white;
+  border: 5px black dotted;
+}
+
+.NYCPage {
+  border: none;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+}
+.textNYC {
+  font-size: 30px;
+  color: #ffe23f;
+  background-color: white;
+  border: 5px black dotted;
+}
+
+.indiaPage {
+  border: none;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+}
+.textIndia {
+  font-size: 30px;
+  color: #9d2bbc;
+  background-color: white;
+  border: 5px black dotted;
+}
+
+.japanPage {
+  border: none;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+}
+.textJapan {
+  font-size: 30px;
+  color: #e53330;
+  background-color: white;
+  border: 5px black dotted;
+}
+
+.costaRicaPage {
+  border: none;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+}
+.textCostaRica {
+  font-size: 30px;
+  color: #3ed85d;
+  background-color: white;
+  border: 5px black dotted;
+}
+
+.bostonPage {
+  border: none;
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+}
+.textBoston {
+  font-size: 30px;
+  color: #16248c;
+  background-color: white;
+  border: 5px black dotted;
+}
 
 
 
@@ -104,3 +199,8 @@ h2{
 }
 @media only screen
 and (min-device-width : 768px)
+
+/* .hawaiiPage {
+  background-color: white;
+
+} */
